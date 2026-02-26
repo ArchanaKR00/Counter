@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Betania+Patmos&family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&display=swap');
+@import "tailwindcss";
+
+
+ @theme {
+  --font-inter:'Inter', 'sans-serif'
+}
+
+
+@theme {
+  --font-cursive: "Betania Patmos", "cursive";
+}
+
+@theme {
+  --font-dancing: "Dancing Script", "cursive";
+}
