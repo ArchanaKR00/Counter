@@ -59,6 +59,13 @@ Counter UI includes:
 - Smooth hover and click animations
 - Modern button styling
 
+
+![img](counter.png)
+
+
+
+
+
 ---
 
 ## 🌟 Future Improvements
